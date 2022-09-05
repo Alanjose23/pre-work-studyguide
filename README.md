@@ -1,5 +1,6 @@
 # pre-work-studyguide
 
+
 ## Description
 My motivation was to create a website which would be efficiently be able to store and create and manipulate information that I would learn in the pre work bootcamp, and do it to the best of my ability.I built this project because it was truely an exercise of all the things that I learned and truely helped me get into the flow of things in the website.It solves the problem of how to create a sample website with the tools that I learned. I learned the tools to manipulate information and to create and use the tools of JavaScript, CSS, and HTML to create a website.
 
@@ -9,7 +10,9 @@ N/A
 
 ## Usage
 
+
 The tools that are seen on the website are straightforward and provide the tools to effectively write down and summarize notes that I have taken on the subjects that I have learned in the course. It includes the areas of git, CSS, HTML, and JavaScript to create effective and concise notes about the subject matter.
+
 ## Credits
 
 N/A
