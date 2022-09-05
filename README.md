@@ -1,21 +1,26 @@
 # pre-work-studyguide
+
+
 ## Description
-My motivation for building this project was to create a review website where I could look back and reflect on how far and how much effort I put into the creation of something in coding and how impactful it is. I built this project as a groundwork for a better idea of how to introcude several elements of coding, esspecially Front End development in the code.I built this as the solution to the problem of a small and quick summary of the coding matieral I learned while in the precursor part of the bootcamp. I learned the values of perserverance and how you can continously change or improve your code.
+My motivation was to create a website which would be efficiently be able to store and create and manipulate information that I would learn in the pre work bootcamp, and do it to the best of my ability.I built this project because it was truely an exercise of all the things that I learned and truely helped me get into the flow of things in the website.It solves the problem of how to create a sample website with the tools that I learned. I learned the tools to manipulate information and to create and use the tools of JavaScript, CSS, and HTML to create a website.
 
 ## Installation
+
 N/A
 
 ## Usage
 
-Each section is specific to a portion of the learning that I have learned in the part of the bootcamp, but the essential lessons and summary of the portions include a section on Git, JavaScript, HTML, and CSS to create a website with character. You can use this website as a way of keeping notes, a way of organizing thoughts on ideas or expansion of the specific sections of code. All in all, this code was an essential method of creating and maintaining a great and task specific website.
+
+The tools that are seen on the website are straightforward and provide the tools to effectively write down and summarize notes that I have taken on the subjects that I have learned in the course. It includes the areas of git, CSS, HTML, and JavaScript to create effective and concise notes about the subject matter.
 
 ## Credits
 
 N/A
 
+
 ## License
 
-Same as the repo
+Please refer to license at the repo
 
 ## Badges
 
